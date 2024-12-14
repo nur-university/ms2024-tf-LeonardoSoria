@@ -15,4 +15,5 @@ Nutritional Plan Creation
 Provides functionality for creating and managing personalized nutritional plans.
 Plans are built based on data gathered from appointments and analysis results to ensure relevance and effectiveness.
 
-![image](https://github.com/user-attachments/assets/660d7d60-52e4-4851-9f40-9d33eff59a00)
+![image](https://github.com/user-attachments/assets/0f1952c8-bc32-4c27-924d-d675e463301b)
+
