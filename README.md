@@ -1,4 +1,5 @@
-Nutritional Assistance Service
+**Nutritional Assistance Service**
+
 The Nutritional Assistance Service is a microservice designed to manage core functionalities related to nutrition and health workflows. It provides RESTful APIs for handling the following key features:
 
 Features
