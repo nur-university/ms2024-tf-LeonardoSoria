@@ -1,0 +1,6 @@
+rootProject.name = 'nutritional_service'
+
+include 'domain'
+include 'application'
+include 'infrastructure'
+include 'webapi'
