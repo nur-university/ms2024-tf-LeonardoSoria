@@ -78,3 +78,4 @@ The `Pipeline` interface facilitates command and query execution, enabling a cle
 
 ![image](https://github.com/user-attachments/assets/0f1952c8-bc32-4c27-924d-d675e463301b)
 
+Link to the explanation on a youtube video: https://youtu.be/NtWss1Z9Jso
